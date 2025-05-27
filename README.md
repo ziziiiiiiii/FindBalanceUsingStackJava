@@ -1,0 +1,3 @@
+This project was made for CS 112, Fundamentals of Programming 2, at Allan Hancock College. It is written in Java. It takes the name of some .txt file from the user, then checks to see if the curly braces in it are balanced, meaning there is a closing curly brace for every opening curly brace. These braces can be in any order.
+
+Demo5 is included and is the file which must be run. It takes input from the user to determine the .txt file to read from. This test file provided is curlytestreal.txt, but the user may make their own .txt file, either exclusively with curly braces or otherwise, to determine if they are balanced.
