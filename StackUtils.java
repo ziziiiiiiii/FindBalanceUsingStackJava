@@ -1,3 +1,6 @@
+// This program reads from the file and determines if the number of curly braces are balanced. If they are,
+// it returns 0. If they aren't, it returns 1.
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.io.File;
