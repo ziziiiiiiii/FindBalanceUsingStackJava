@@ -1,3 +1,6 @@
+// This is the program to be run. It takes input from the user and prints text informing them whether
+// or not the number of curly braces in the program is balanced.
+
 import java.io.File;
 import java.util.Scanner;
 import java.util.Stack;
